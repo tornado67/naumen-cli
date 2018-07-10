@@ -1,0 +1,14 @@
+*.log
+*.txt
+*.pyc
+*.csv
+*.sh
+*__pycache__*
+re
+dateutil
+datetime
+pymssql
+argparse
+pprint
+os
+logging

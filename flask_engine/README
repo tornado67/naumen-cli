@@ -1,0 +1,3 @@
+Flask engine - web engine to call naumen/main.py from a simple web frontend.
+- index.html - simple web page that gets user's input and forms a hosts file for naumen/main.py
+- flask_engine/main.py simple flask app for executing naumen/main.py
